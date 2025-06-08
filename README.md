@@ -87,3 +87,4 @@ Data Analytics: Understanding time-series data and visualizing it is essential f
 Learning API Integration: This project provides a practical foundation in consuming RESTful APIs, a must-have skill in modern software development.
 
 OUTPUT:
+![Image](https://github.com/user-attachments/assets/474ddb2c-cd44-4b49-9ed6-d5fab6a9cf57)
